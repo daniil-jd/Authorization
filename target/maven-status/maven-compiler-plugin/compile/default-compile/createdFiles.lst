@@ -1,0 +1,9 @@
+ru\kurce\kai\DAO\UserDAO.class
+ru\kurce\kai\DAO\ProductDAO.class
+ru\kurce\kai\filters\AuthFilter.class
+ru\kurce\kai\models\User.class
+ru\kurce\kai\servlets\HomeServlet.class
+ru\kurce\kai\servlets\SignInServlet.class
+ru\kurce\kai\services\DBService.class
+ru\kurce\kai\servlets\SignUpServlet.class
+ru\kurce\kai\models\Product.class
